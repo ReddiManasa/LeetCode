@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ReddiManasa/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ReddiManasa/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ReddiManasa/LeetCode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/ReddiManasa/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/ReddiManasa/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/ReddiManasa/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/ReddiManasa/LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
