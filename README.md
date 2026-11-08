@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/ReddiManasa/LeetCode/tree/master/0190-reverse-bits) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ReddiManasa/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
