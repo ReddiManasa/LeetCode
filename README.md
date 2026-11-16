@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ReddiManasa/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ReddiManasa/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ReddiManasa/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ReddiManasa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ReddiManasa/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ReddiManasa/LeetCode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ReddiManasa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Newton's Method
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ReddiManasa/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ReddiManasa/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ReddiManasa/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ReddiManasa/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ReddiManasa/LeetCode/tree/master/0344-reverse-string) |
